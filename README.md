@@ -9,8 +9,9 @@ The reading group will revive in the spring semester! Wherever possible a round-
 *22/03/2023:
 
 ## Theme 2: Big data inference
-*05/04/2023: [Giannone, D., Lenza, M., & Primiceri, G. E. (2021): The illusion of sparsity](https://onlinelibrary.wiley.com/doi/epdf/10.3982/ECTA17842) 
+*05/04/2023: [Chernozhukov, V., Chetverikov, D., Kato, K., & Koike, Y. (2022):High-dimensional Data Bootstrap](https://arxiv.org/pdf/2205.09691.pdf)
 
 *19/04/2023: [Chernozhukov, V., Wüthrich, K., & Zhu, Y. (2021): Distributional conformal prediction](https://www.pnas.org/doi/pdf/10.1073/pnas.2107794118)
 
-*03/05/2023: [Chernozhukov, V., Chetverikov, D., Kato, K., & Koike, Y. (2022):High-dimensional Data Bootstrap](https://arxiv.org/pdf/2205.09691.pdf)
+*03/05/2023: [Giannone, D., Lenza, M., & Primiceri, G. E. (2021): The illusion of sparsity](https://onlinelibrary.wiley.com/doi/epdf/10.3982/ECTA17842) 
+
