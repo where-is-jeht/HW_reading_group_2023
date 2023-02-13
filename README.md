@@ -1,7 +1,7 @@
 # The spring schedule reading group 2023
 The reading group will revive in the spring semester! Wherever possible a round-table style discussion will be preferred. Alternatively, a Teams/zoom meeting can be set up. We are trying to make it hybrid this time. The following links list study materials for each session. Note the schedule may change given feedbaack and pregress, without advance knowledge, so stay tuned and up-to-date. The reading group will meet every other Wednesday at 11:30 am. You can download an .ics file for your calendar here. To join the Zoom meeting, follow this link (if this link doesn't work please use Meeting ID: ********* with Passcode: ***).
 
-## High-dimensional metrics
+## High-dimensional econometrics
 * 01/03/2023: [Radchenko, Vasnev, Wang. (2023):Too similar to combine? On negative weights in forecast combination](https://dl.acm.org/doi/pdf/10.1145/3372274) 
 
 * 15/03/2023: TBA
