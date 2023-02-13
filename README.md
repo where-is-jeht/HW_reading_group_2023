@@ -8,7 +8,7 @@ The reading group will revive in the spring semester! Wherever possible a round-
 
 * 29/03/2023: [Giannone, D., Lenza, M., & Primiceri, G. E. (2021): Economic predictions with big data: The illusion of sparsity](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA17842)
 
-## Applied matrics
+## Applied econometrics
 
 * 12/04/2023: [Dave, D. M., Liang, Y., Muratori, C., & Sabia, J. J. (2023): The Effects of Recreational Marijuana Legalization on Employment and Earnings](https://www.nber.org/system/files/working_papers/w30813/w30813.pdf)
 
